@@ -1,0 +1,14 @@
+{
+    "base_url": "https://image.sinajs.cn/newchart/min/n/{stock_id}.png",
+    "referer": "https://quotes.sina.cn/",
+    "stock_list": [
+        "sh000001",
+        "sz159915",
+        "sz159967",
+        "sz300124"
+    ],
+    "window_position": {
+        "x": 1815,
+        "y": 135
+    }
+}
