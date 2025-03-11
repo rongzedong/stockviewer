@@ -11,4 +11,4 @@ snapshot 1
 
 snapshot 2
 
-<img src="snapshot_1.png" alt="snapshot_2.png" />
+<img src="snapshot_2.png" alt="snapshot_2.png" />
