@@ -6,6 +6,8 @@
 clang++ -std=c++17 -o stockviewer.exe main.cpp -lgdiplus -lwininet -luser32 -lgdi32 -lole32
 
 ## 配置文件：
+
+```json
 {
     "base_url": "https://image.sinajs.cn/newchart/min/n/{stock_id}.png", // 图片地址模板 目前只支持 png格式的
     "referer": "https://quotes.sina.cn/", // referer
@@ -20,6 +22,7 @@ clang++ -std=c++17 -o stockviewer.exe main.cpp -lgdiplus -lwininet -luser32 -lgd
         "y": 135
     }
 }
+```
 
 ## 屏幕快照
 
