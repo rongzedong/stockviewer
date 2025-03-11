@@ -33,3 +33,11 @@ snapshot 1
 snapshot 2
 
 <img src="snapshot_2.png" alt="snapshot_2.png" />
+
+## 开发计划
+
+希望有空的可以：
+
+* 增加隐藏快捷键
+* 增加只显示第一只的快捷键
+* 增加背景透明度调整功能
